@@ -13,6 +13,8 @@
 
 ## Steps:
 1. Create Database with name: 'homologacao' user: 'root' password: '' and run in port: 3306 (like .env)
+    1. Rename .env.example file for .env
+    2. Access .env file and in DB_DATABASE=laravel change for DB_DATABASE=homologacao
 2. Run composer install
 3. Run php artisan migrate
 4. Run php artisan serve
