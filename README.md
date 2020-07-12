@@ -1,4 +1,4 @@
-# However, if you are not using Homestead, you will need to make sure your server meets the following requirements:
+# Servers requirements:
 
 * *PHP >= 7.2.5*
 * *BCMath PHP Extension*
