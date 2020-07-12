@@ -1,4 +1,4 @@
-# Servers requirements:
+# Server requirements:
 
 * *PHP >= 7.2.5*
 * *BCMath PHP Extension*
