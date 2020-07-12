@@ -1,15 +1,15 @@
 # However, if you are not using Homestead, you will need to make sure your server meets the following requirements:
 
-**PHP >= 7.2.5*
-*BCMath PHP Extension*
-*Ctype PHP Extension*
-*Fileinfo PHP extension*
-*JSON PHP Extension*
-*Mbstring PHP Extension*
-*OpenSSL PHP Extension*
-*PDO PHP Extension*
-*Tokenizer PHP Extension*
-*XML PHP Extension*
+* *PHP >= 7.2.5*
+* *BCMath PHP Extension*
+* *Ctype PHP Extension*
+* *Fileinfo PHP extension*
+* *JSON PHP Extension*
+* *Mbstring PHP Extension*
+* *OpenSSL PHP Extension*
+* *PDO PHP Extension*
+* *Tokenizer PHP Extension*
+* *XML PHP Extension*
 
 ## Steps:
 1. Create Database with name: 'homologacao' user: 'root' password: '' and run in port: 3306 (like .env)
